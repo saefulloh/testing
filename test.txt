@@ -1,3 +1,4 @@
 Satu
-dua 
+setengah 
 tiga
+empat
